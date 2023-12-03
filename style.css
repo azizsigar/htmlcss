@@ -1,0 +1,40 @@
+.kutu1{
+    background-color: powderblue;
+}
+.kutu2{
+    background-color: chocolate;
+}
+.kutu3{
+    background-color: forestgreen;
+    color: crimson;
+    padding: 10px;
+    border: 1px black solid;
+    border-radius: 20px;
+    box-shadow: 4px 5px black;
+}
+
+input{
+    width: 500px;
+    height: 10px;
+}
+
+button{
+    padding: 20px;
+    background-color: green;
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+}
+.buton1{
+    background-color: black;
+    color: wheat;
+}
+.search{
+    margin: auto;
+}
+nav{
+    margin: auto;
+}
+body{
+    display:flex;
+    flex-direction: column;
+}
